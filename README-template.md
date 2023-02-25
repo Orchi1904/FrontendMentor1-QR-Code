@@ -20,7 +20,7 @@ Challenge Level: 1 -> Newbie 🟢
 
 Here is a screenshot of my solution:
 
-![](./solution.png)
+![](./solution.PNG)
 
 ### Links
 

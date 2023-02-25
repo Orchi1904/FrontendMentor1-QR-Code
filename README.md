@@ -24,6 +24,7 @@ Here is a screenshot of my solution:
 
 ### Links
 
+- Link to the challenge: [QR-Code challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - Live Site URL: [See solution on my live site](https://frontend-mentor1-qr-code.vercel.app/)
 
 ## My process
